@@ -1,0 +1,57 @@
+-> Computers store and process data with an extra ordinary speed and accuracy. So it is highly essential that the data is stored efficiently and can be accessed fast.Also the processing of data should happen in the smallest possible time but without losing the accuracy.
+ 
+-> Data structures deal with how the data is organized and held in the memory when a program processes it. 
+-> An algorithm is step by step set of instruction to process the data for a specific purpose. so an algorithm utilizes various data structures in a logical way to solve a specific computing problem.
+
+General Data structure
+	-> Linear Data Structure
+		-> Array
+		-> Linked List
+		-> Stack
+		-> Queue
+		-> Matrix
+Non-Linear Data Structure
+	->Binary Tree
+	-> Heap
+	-> Hash Table
+	-> Graph
+Python Specific Data Structure
+	-> List
+	-> Tuple
+	-> Dictionary
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
