@@ -1,0 +1,37 @@
+* An algorithms is a procedure having well defined steps for solving a particular problem. Algorithm is finite set of logic or instructions, written in order for accomplish the certain predefined task.
+* Algo is not the complete program or code. it is just a solution (logic) of a problem, which can be represented either as an informal description using a Flowchart or Pseudo code.
+
+* Major categories of algo are 
+	-> Sort
+	-> Search
+	-> Delete
+	-> Insert
+	-> Update
+* Performance of algorithm is measured on the basis of following preperties:
+	-> Time complexity
+	-> Space complexity
+
+example of an algorithm
+Q -> Design an algo to multiply the two numbers x and y and display the result in Z.
+step1 START
+step2 declare three integers x,y & z
+step3 define values of x&y
+step4 multiply x&y
+step5 store output in z
+step6 display z
+step7 STOP
+
+
+another way
+step1 START MULTIPLY
+step2 get values of x&y
+step3 z<-x*y
+step4 display z
+step5 STOP
+
+
+Characteristics of an Algorithms
+* Feasibility -> an algo must be terminated after the finite number of steps.
+* independent -> an algo must have step-by-step directions which is independent of any programming code.
+* unambiguous -> an algo must be unambiguous and clear. Each of their steps and input/outputs must be clear and lead to only one meaning.
+
